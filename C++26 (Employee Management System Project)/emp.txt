@@ -1,0 +1,5 @@
+102,Jack Denmo,6000,75,102,jdm@gmail.com
+103,Andrew Yang,7000,75,103,ayg@gmail.com
+105,Karthik RameshKamath,8000,75,105,krk@gmail.com
+104,Kyle Kulinski,7000,75,104,kyk@gmail.com
+106,Gautam Buddha,8000,75,105,gba@gmail.com

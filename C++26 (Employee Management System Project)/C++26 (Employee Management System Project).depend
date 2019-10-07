@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570405523 source:c:\users\karthik\documents\matlab (codeblocks files)\c++26 (employee management system project)\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
